@@ -7,9 +7,7 @@
 
 * **Lattice Boltzmann Method:** Implements a D2Q9 (2-dimensional, 9-velocity) Lattice Boltzmann model for fluid simulation.
 * **Triangular Obstacle:** Features a static, rotated triangular obstacle within the fluid domain.
-* **Vorticity Visualization:** Renders the vorticity of the fluid, highlighting turbulence and flow patterns around the obstacle.
-* **Dynamic Visualization:** Updates the simulation in real-time and saves periodic snapshots of the vorticity field.
-
+* **Vorticity Visualization:** Renders the vorticity of the fluid, highlighting basic flow patterns around the obstacle.
 ---
 
 
